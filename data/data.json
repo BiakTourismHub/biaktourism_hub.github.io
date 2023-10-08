@@ -1,17 +1,20 @@
 {
     "page1": {
-      "title": "PROPOSAL PROYEK III",
+      "title": "Proposal Proyek III",
       "content": {
         "imageURL": "https://cdn.discordapp.com/attachments/1159805007600832562/1160400060849324113/Blue_Modern_Travel_Vlogs_YouTube_Channel_Art.png?ex=653485c5&is=652210c5&hm=9ee540809c753d292ad0edb8ec4743292e81021ac2c2d59f1c6bb965d24975d7&",
-        "description": "Melalui pengembangan platform promosi wisata Biak, diharapkan pertumbuhan ekonomi positif dengan mendukung pelaku usaha lokal, seperti homestay, kuliner, transportasi, dan kerajinan. Ini akan meningkatkan pendapatan, kesejahteraan masyarakat, menciptakan lapangan kerja, dan kemajuan ekonomi Biak, Papua."
+        "description": "Bryan & Safwan"
       }
     },
     "page2": {
-      "title": "Halaman 2",
-      "content": "Ini adalah halaman kedua dengan perkenalan aplikasi."
+      "title": "About Biak Tourism System",
+      "content": {
+        "imageURL": "https://cdn.discordapp.com/attachments/1159805007600832562/1160437911725023313/Kondisi_Pertanian_Global_Infografik_800_x_2300_piksel.png?ex=6534a906&is=65223406&hm=ccf4ab2c6be44a99d82cfa314f031f69e2e9bb828a213c39c5755aacb8f92f57&",
+        "description": "Bryan & Safwan"
+      }
     },
     "page3": {
-      "title": "Halaman 3",
-      "content": "Ini adalah halaman ketiga dengan fitur-fitur aplikasi."
+      "title": "kontak kita lek",
+      "content": "ini aku suka issi kontenya"
     }
 }
