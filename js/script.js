@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
         const container = document.getElementById("page-content");
   
-        let contentHTML = `<h1>${pageData.title}</h1>`;
+        let contentHTML = `<h3>${pageData.title}</h3>`;
   
         if (pageData.content && pageData.content.imageURL) {
           // Tambahkan gambar jika imageURL tersedia
