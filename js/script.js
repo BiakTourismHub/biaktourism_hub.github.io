@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (pageData.content && pageData.content.imageURL) {
           // Tambahkan gambar jika imageURL tersedia
           contentHTML += `
-            <div class="row justify-content-center">
+            <div class="row justify-content-center mb-5">
               <div class="col-md-6 text-center">
                 <img src="${pageData.content.imageURL}" alt="Gambar ${pageData.title}" class="img-fluid">
               </div>

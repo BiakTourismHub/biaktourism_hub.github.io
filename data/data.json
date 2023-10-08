@@ -14,7 +14,10 @@
       }
     },
     "page3": {
-      "title": "kontak kita lek",
-      "content": "ini aku suka issi kontenya"
+      "title": "Contact Us",
+      "content": {
+        "imageURL": "https://cdn.discordapp.com/attachments/1159805007600832562/1160584349952004146/Black_Simple_Newspaper_Birthday_Poster.png?ex=65353167&is=6522bc67&hm=59974b86da4cbb3409e0bd15ccd930fc8f9762dadae27bd3d58675fe59e59a5a&",
+        "description": "Bryan & Safwan"
+      }
     }
 }
